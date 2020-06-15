@@ -1,10 +1,10 @@
 ---
 layout: page
 title: James Lee Cureton
-subtitle: Why you'd want to know me
+subtitle: 
 ---
 
-My name is Jim Cureton. I have the following qualities:
+Why you'd want to know me:
 
 - My beard is quite nice
 - I enjoy technology
@@ -13,9 +13,9 @@ My name is Jim Cureton. I have the following qualities:
 - My Chameleon is named Beans
 - I love roller skating
 
-What else do you need?
 
 ### My history
 
 I have a wonderful family stocked with an amazing wife and four stinky boys.
 I have been employed at Willamette University for many years.
+I am born and raised and living in the Pacific North West.
