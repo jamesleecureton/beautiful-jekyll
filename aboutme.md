@@ -4,7 +4,7 @@ title: James Lee Cureton
 subtitle: 
 ---
 
-Why you'd want to know me:
+### Why you'd want to know me:
 
 - My beard is quite nice
 - I enjoy technology
