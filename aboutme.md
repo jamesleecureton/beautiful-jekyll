@@ -7,10 +7,10 @@ subtitle:
 ### Why you'd want to know me:
 
 - I enjoy technology
-- My dog is named Clover
 - I like Star Wars
-- My Chameleon is named Beans
 - I love roller skating
+- My dog is named Clover
+- My Chameleon is named Beans
 
 
 ### My history
