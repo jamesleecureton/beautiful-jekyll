@@ -18,4 +18,4 @@ Why you'd want to know me:
 
 I have a wonderful family stocked with an amazing wife and four stinky boys.
 I have been employed at Willamette University for many years.
-I am born and raised and living in the Pacific North West.
+I am born, raised, and living in Oregon.
