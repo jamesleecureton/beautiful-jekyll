@@ -6,7 +6,6 @@ subtitle:
 
 ### Why you'd want to know me:
 
-- My beard is quite nice
 - I enjoy technology
 - My dog is named Clover
 - I like Star Wars
@@ -16,6 +15,6 @@ subtitle:
 
 ### My history
 
-I have a wonderful family stocked with an amazing wife and four stinky boys.
-I have been employed at Willamette University for many years.
-I am born, raised, and living in Oregon.
+- I have a wonderful family stocked with an amazing wife and four stinky boys.
+- I have been employed at Willamette University for many years.
+- I am born, raised, and living in Oregon.
