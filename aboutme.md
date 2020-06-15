@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: James Lee Cureton
 subtitle: Why you'd want to know me
 ---
 
