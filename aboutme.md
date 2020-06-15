@@ -15,6 +15,6 @@ subtitle:
 
 ### My history
 
-- I have a wonderful family stocked with an amazing wife and four stinky boys.
+- I have a wonderful family comprised of an amazing wife and four stinky boys.
 - I have been employed at Willamette University for many years.
 - I am born, raised, and living in Oregon.
