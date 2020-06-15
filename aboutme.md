@@ -7,11 +7,15 @@ subtitle: Why you'd want to know me
 My name is Jim Cureton. I have the following qualities:
 
 - My beard is quite nice
-- I like technology, you see
-- My dog is a King Charles Cavalier named Clover
-- Star Wars is my favorite movie
+- I enjoy technology
+- My dog is named Clover
+- I like Star Wars
+- My Chameleon is named Beans
+- I love roller skating
 
 What else do you need?
 
-### my history
+### My history
 
+I have a wonderful family stocked with an amazing wife and four stinky boys.
+I have been employed at Willamette University for many years.
